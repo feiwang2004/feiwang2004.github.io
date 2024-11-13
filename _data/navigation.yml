@@ -9,4 +9,4 @@ main:
     url: /publications/
 
   - title: "Life Photos"
-    url: /life_photos/
+    url: #/life_photos/
