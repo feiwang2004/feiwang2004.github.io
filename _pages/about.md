@@ -14,13 +14,13 @@ My name is Fei Wang, which is pronounced as \[feɪ̯ wɑŋ\]. I am currently an 
 ## Education
 **Stony Brook University**<br>
 Stony Brook, NY, USA<br>
-B.Sc in *Applied Mathematics and Statistics*
+B.Sc. in *Applied Mathematics and Statistics*
 
 <br>
 
 **Anhui University**<br>
 Hefei, Anhui, China<br>
-B.Sc in *Applied Statistics*
+B.Sc. in *Applied Statistics*
 
 <br>
 
