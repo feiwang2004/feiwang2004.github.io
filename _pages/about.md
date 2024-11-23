@@ -28,3 +28,7 @@ B.Sc. in *Applied Statistics*
 **Anhui University**<br>
 Research Assistant<br>
 Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/)
+
+**University of Kentucky**<br>
+Research Assistant<br>
+Supervised by [Dr.Zeya Wang](https://zeyawang.github.io)
