@@ -12,7 +12,7 @@ redirect_from:
 
 
 **Anhui University**
-Research Assistant  
+Research Assistant
 Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/)
 
 
