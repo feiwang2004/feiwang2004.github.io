@@ -21,14 +21,3 @@ B.Sc. in *Applied Mathematics and Statistics*
 **Anhui University**<br>
 Hefei, Anhui, China<br>
 B.Sc. in *Applied Statistics*
-
-<br>
-
-## Internship
-**Anhui University**<br>
-Research Assistant<br>
-Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/)
-
-**University of Kentucky**<br>
-Research Assistant<br>
-Supervised by [Dr.Zeya Wang](https://zeyawang.github.io)
