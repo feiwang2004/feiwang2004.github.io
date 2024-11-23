@@ -11,12 +11,13 @@ redirect_from:
 **I am so fortunate to cooperate with these nice and talented advisors and these precious experiences definitely inspired my academic journey!**
 
 
-**Anhui University**                                       10/2024-current<br>
+**Anhui University** 
+<span style="display: inline-block; width: 100%; text-align: right;">10/2024-current</span><br>
 Research Assistant<br>
 Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/)
 
-
-**University of Kentucky**<br>
+**University of Kentucky**
+<span style="display: inline-block; width: 100%; text-align: right;">11/2024-current</span><br>
 Research Assistant<br>
 Supervised by [Dr. Zeya Wang](https://zeyawang.github.io)
 
