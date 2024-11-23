@@ -11,7 +11,7 @@ redirect_from:
 **I am so fortunate to cooperate with these nice and talented advisors and these precious experiences definitely inspired my academic journey!**
 
 
-**Anhui University**<br>
+**Anhui University**<br>                                       10/2024-current
 Research Assistant<br>
 Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/)
 
