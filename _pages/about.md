@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fei Wang"
+title: "Fei Wang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
