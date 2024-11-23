@@ -12,7 +12,10 @@ My name is Fei Wang, which is pronounced as \[feɪ̯ wɑŋ\]. I am currently an 
 **Stony Brook University**<br>
 Stony Brook, NY, USA<br>
 B.Sc. in *Applied Mathematics and Statistics*
-<br>
+
+
 **Anhui University**<br>
 Hefei, Anhui, China<br>
 B.Sc. in *Applied Statistics*
+## News
+<span style="color: red;">This text is red!</span>
