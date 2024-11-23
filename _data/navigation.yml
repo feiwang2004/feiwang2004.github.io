@@ -6,7 +6,10 @@
 
 main:
   - title: "Publications"
-    url: /
+    url:
 
-  - title: "Life Photos"
+  - title: "Research Experience"
+    url: #/Research_Experience/
+
+     - title: "Life Photos"
     url: #/life_photos/
