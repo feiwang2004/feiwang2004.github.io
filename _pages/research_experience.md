@@ -12,9 +12,9 @@ redirect_from:
 
 
 **10/2024-current Partial multi-label learning**<br>
-Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/) from Anhui University
+Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/) from Anhui University<br>
 Publication:
 
 **11/2024-current**<br>
-Supervised by [Dr. Zeya Wang](https://zeyawang.github.io) from University of Kentucky
+Supervised by [Dr. Zeya Wang](https://zeyawang.github.io) from University of Kentucky<br>
 Publication:
