@@ -6,8 +6,9 @@ author_profile: false
 ---
 
 **I am so fortunate to cooperate with these nice and talented advisors and these precious experiences definitely inspired my academic journey!**
-**Anhui University**<br>
-Research Assistant<br>
+<br>
+**Anhui University**
+Research Assistant
 Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/)
 <br>
 **University of Kentucky**<br>
