@@ -12,16 +12,16 @@ redirect_from:
 
 
 **Anhui University**<br>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <span>Research Assistant</span>
-  <span>10/2024-current</span>
+  <span style="text-align: right;">10/2024-current</span>
 </div>
 Supervised by [Dr. Hanyu Xuan](https://xuanhanyu.github.io/)
 
 **University of Kentucky**<br>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <span>Research Assistant</span>
-  <span>11/2024-current</span>
+  <span style="text-align: right;">11/2024-current</span>
 </div>
 Supervised by [Dr. Zeya Wang](https://zeyawang.github.io)
 
