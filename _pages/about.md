@@ -18,4 +18,4 @@ B.Sc. in *Applied Mathematics and Statistics*
 Hefei, Anhui, China<br>
 B.Sc. in *Applied Statistics*
 ## News
-<span style="color: red;">*7/2024*</span>&nbspI came to Stony Brook University to complete my bachelor degree majoring applied mathematics and statistics! 
+<span style="color: red;">*7/2024*</span>&nbspI came to Stony Brook University to complete my bachelor degree majoring in applied mathematics and statistics! 
