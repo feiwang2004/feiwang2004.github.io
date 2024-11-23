@@ -2,7 +2,7 @@
 layout: archive
 title: "Research Experience"
 permalink: /research_experience/
-author_profile: true
+author_profile: false
 ---
 
 **I am so fortunate to cooperate with these nice and talented advisors and these precious experiences definitely inspired my academic journey!**
